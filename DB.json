@@ -1,19 +1,34 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "profileImage": "https://imgs.search.brave.com/zO9vkSAXsSlTEGCBRWuD7PxoY_YYVjef9hK4LgTQXPI/rs:fit:585:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/RERuWmc5LXE1Qmt5/VGNmT0FZc2J3SGFH/QSZwaWQ9QXBp"
+    },
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "John Doe",
+      "username": "johndoe",
+      "profileImage": "https://imgs.search.brave.com/NRuCf8ve6caCxKQVRrISAosKFJKFpDEU3-uHp5zFYTk/rs:fit:739:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/VDVVaXBxLWJiNmJm/MVZoWXRScU5nSGFF/dyZwaWQ9QXBp"
+    },
+    {
+      "id": 1,
+      "name": "Bob Smith",
+      "username": "bobsmith",
+      "profileImage": "https://imgs.search.brave.com/_IGPVWHi4W27l-P9VB09wuUlTnajJW3rT8RNBTBnRFQ/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5N/cXpVbHVOdHZqNUlR/Qm54RzJFcnZRSGFI/YSZwaWQ9QXBp"
+    },
+    {
+      "id": 1,
+      "name": "Ana Smith",
+      "username": "anasmith",
+      "profileImage": "https://imgs.search.brave.com/hvwCxBiPnSJajImgIHWpjJgyMOq-Ni7i8pyy-h1Ay2Q/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/eFVpcmt3V1JkRWNL/M0FNQ0ZiTUJnSGFI/YSZwaWQ9QXBp"
+    },
+    {
+      "id": 1,
+      "name": "Kyle Miller",
+      "username": "kylemiller",
+      "profileImage": "https://imgs.search.brave.com/XAzuJSPwAqAqyIk3TT-tx5Em2G6QMaNSRSh7SfZBug8/rs:fit:439:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/aW43S2ZXbEJQdXpQ/dXZFV1hnTzRRSGFI/XyZwaWQ9QXBp"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

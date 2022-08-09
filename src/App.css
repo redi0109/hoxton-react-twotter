@@ -56,6 +56,7 @@
 
 .right-menu {
   grid-area: right-menu;
+  padding: 0 30px;
 }
 
 .search-bar {
@@ -71,23 +72,27 @@
   display: grid;
   margin-top: 2rem;
   gap: 20px;
+  padding: 20px;
+  border:1px solid #cdc8c8;
+  border-radius: 20px;
+  background-color:  rgb(242, 237, 237);
+
 }
 
 .right-menu-list {
   display: grid;
   gap: 30px;
   font-size: large;
+ 
 }
 
 .right-menu-trends li {
   display: grid;
   grid-template-columns:  1fr;
-  border: 1px solid white;
 }
 
 .right-menu-trends li:hover {
-  background-color: #cdc8c8;
-  border-radius: 50px;
+ 
   padding: 20px;
   cursor: pointer;
 }
@@ -103,10 +108,12 @@
 .main-menu {
   grid-area: main-menu;
   padding: 0 30px;
+  border:  1px solid rgb(227, 227, 227);
+  border-top: 0;
 }
 
 .profile-picture{
-width: 50px;
+width: 80px;
 border-radius: 50%;
 }
 
@@ -125,8 +132,11 @@ display: grid;
 .add-post-input {
   grid-template-columns: auto 1fr;
   width: 300px;
+  height: 100px;
   padding: 15px;
   width: 30rem;
+  border: 1px solid rgb(255, 255, 255);
+  font-size: larger;
   
 }
 
