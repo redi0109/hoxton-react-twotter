@@ -13,6 +13,8 @@
     300px 1fr 300px;
 }
 
+/* left menu*/
+
 .left-menu {
   grid-area: left-menu;
 }
@@ -34,8 +36,7 @@
   cursor: pointer;
 }
 
-
-.logo{
+.logo {
   width: 100px;
   padding: 10px;
 }
@@ -43,11 +44,42 @@
 .tweet-btn {
   border: 1px solid #1d9bf0;
   text-align: center;
-  width:250px;
+  width: 250px;
   padding: 20px;
   border-radius: 50px;
   cursor: pointer;
   background-color: #1d9bf0;
   color: white;
+}
 
+/* right menu*/
+
+.right-menu {
+  grid-area: right-menu;
+}
+
+.search-bar {
+  border-radius: 50px;
+  grid-template-columns: auto 1fr;
+  width: 300px;
+  padding: 15px;
+  border: 1px solid rgb(227, 227, 227);
+  background-color: rgb(227, 227, 227);
+}
+
+.right-menu-trends {
+  display: grid;
+  margin-top: 2rem;
+  gap: 20px;
+}
+
+.right-menu-list {
+  display: grid;
+  gap: 30px;
+}
+
+.right-menu-trends li {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  border: 1px solid white;
 }
