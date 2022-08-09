@@ -1,6 +1,7 @@
 import './App.css'
 import { LeftMenu } from './components/LeftMenu'
 import { MainMenu } from './components/MainMenu'
+import { RightMenu } from './components/RightMenu'
 function App() {
 
   return (
@@ -9,6 +10,7 @@ function App() {
     
       <LeftMenu />
       <MainMenu />
+      <RightMenu />
   
     </div>
   )
