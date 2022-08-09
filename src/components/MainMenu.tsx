@@ -1,4 +1,4 @@
-export function Header (){
+export function MainMenu (){
     return (
         <div>
             <h1>Home</h1>

@@ -1,14 +1,15 @@
 import './App.css'
-import { Header } from './components/Header'
 import { LeftMenu } from './components/LeftMenu'
+import { MainMenu } from './components/MainMenu'
 function App() {
 
   return (
     <div className="App">
-      <Header />
-      <main>
+   
+    
       <LeftMenu />
-      </main>
+      <MainMenu />
+  
     </div>
   )
 }
