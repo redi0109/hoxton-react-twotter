@@ -12,11 +12,31 @@ export function RightMenu() {
       <div className="right-menu-trends">
         <h2>Trends for you</h2>
         <ul className="right-menu-list">
-          <li>#JavaScript</li>
-          <li>#React</li>
-          <li>#TypeScript</li>
-          <li>#Programming</li>
-          <li>#Web Development</li>
+          <li>#JavaScript
+            <span className="trend-tweets">
+              1.5k Tweets
+              </span>
+          </li>
+          <li>#React
+          <span className="trend-tweets">
+              1.5k Tweets
+              </span>
+          </li>
+          <li>#TypeScript
+          <span className="trend-tweets">
+              1.5k Tweets
+              </span>
+          </li>
+          <li>#Programming
+          <span className="trend-tweets">
+              1.5k Tweets
+              </span>
+          </li>
+          <li>#Web Development
+          <span className="trend-tweets">
+              1.5k Tweets
+              </span>
+          </li>
         </ul>
       </div>
     </div>

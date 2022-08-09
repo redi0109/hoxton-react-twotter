@@ -76,11 +76,12 @@
 .right-menu-list {
   display: grid;
   gap: 30px;
+  font-size: large;
 }
 
 .right-menu-trends li {
   display: grid;
-  grid-template-columns: auto 1fr;
+  grid-template-columns:  1fr;
   border: 1px solid white;
 }
 
@@ -89,6 +90,11 @@
   border-radius: 50px;
   padding: 20px;
   cursor: pointer;
+}
+
+.right-menu-trends li .trend-tweets {
+  font-size: small;
+  color: #6f6b6b;
 }
 
 
