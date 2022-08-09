@@ -2,11 +2,8 @@ export function LeftMenu (){
 return(
    
         <div className="left-menu">
+             <img className="logo" src="https://imgs.search.brave.com/Bj8ePe76Z895YgKa7ZGy9ianeemzuiRk8DFGrfh34TA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cGxhbmV0YS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MTAvdHdpdHRlcmxv/Z28uanBn" alt="logo" /> 
           <ul className="left-menu-list"> 
-          
-            <li>
-                <img src="https://imgs.search.brave.com/Bj8ePe76Z895YgKa7ZGy9ianeemzuiRk8DFGrfh34TA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cGxhbmV0YS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MTAvdHdpdHRlcmxv/Z28uanBn" alt="logo" /> 
-            </li>
             <li>
                 <span className = "material-symbols-outlined">home</span>
                 Home
