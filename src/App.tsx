@@ -1,16 +1,12 @@
 import './App.css'
-import { LeftMenu } from './components/LeftMenu'
-import { MainMenu } from './components/MainMenu'
-import { RightMenu } from './components/RightMenu'
+import { Home } from './pages/Home'
+
 function App() {
 
   return (
     <div className="App">
    
-    
-      <LeftMenu />
-      <MainMenu />
-      <RightMenu />
+    <Home/>
   
     </div>
   )

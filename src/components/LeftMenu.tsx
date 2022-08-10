@@ -9,10 +9,8 @@ return(
          
           <ul className="left-menu-list"> 
             <li>
-            <Link to="/home">
-
                 <span className = "material-symbols-outlined">home</span>
-                Home </Link>
+                Home 
                 </li>
                 <li>
                 <span className = "material-symbols-outlined">tag </span>
