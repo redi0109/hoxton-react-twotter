@@ -4,31 +4,123 @@
       "id": 1,
       "name": "Leanne Graham",
       "username": "Bret",
-      "profileImage": "https://imgs.search.brave.com/zO9vkSAXsSlTEGCBRWuD7PxoY_YYVjef9hK4LgTQXPI/rs:fit:585:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/RERuWmc5LXE1Qmt5/VGNmT0FZc2J3SGFH/QSZwaWQ9QXBp"
+      "profileImage": "https://imgs.search.brave.com/zO9vkSAXsSlTEGCBRWuD7PxoY_YYVjef9hK4LgTQXPI/rs:fit:585:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/RERuWmc5LXE1Qmt5/VGNmT0FZc2J3SGFH/QSZwaWQ9QXBp",
+      "followers": 10,
+      "following": 6
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "John Doe",
       "username": "johndoe",
-      "profileImage": "https://imgs.search.brave.com/NRuCf8ve6caCxKQVRrISAosKFJKFpDEU3-uHp5zFYTk/rs:fit:739:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/VDVVaXBxLWJiNmJm/MVZoWXRScU5nSGFF/dyZwaWQ9QXBp"
+      "profileImage": "https://imgs.search.brave.com/NRuCf8ve6caCxKQVRrISAosKFJKFpDEU3-uHp5zFYTk/rs:fit:739:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/VDVVaXBxLWJiNmJm/MVZoWXRScU5nSGFF/dyZwaWQ9QXBp",
+      "followers": 35,
+      "following": 20
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Bob Smith",
       "username": "bobsmith",
-      "profileImage": "https://imgs.search.brave.com/_IGPVWHi4W27l-P9VB09wuUlTnajJW3rT8RNBTBnRFQ/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5N/cXpVbHVOdHZqNUlR/Qm54RzJFcnZRSGFI/YSZwaWQ9QXBp"
+      "profileImage": "https://imgs.search.brave.com/_IGPVWHi4W27l-P9VB09wuUlTnajJW3rT8RNBTBnRFQ/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5N/cXpVbHVOdHZqNUlR/Qm54RzJFcnZRSGFI/YSZwaWQ9QXBp",
+      "followers": 15,
+      "following": 10
+
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Ana Smith",
       "username": "anasmith",
-      "profileImage": "https://imgs.search.brave.com/hvwCxBiPnSJajImgIHWpjJgyMOq-Ni7i8pyy-h1Ay2Q/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/eFVpcmt3V1JkRWNL/M0FNQ0ZiTUJnSGFI/YSZwaWQ9QXBp"
+      "profileImage": "https://imgs.search.brave.com/hvwCxBiPnSJajImgIHWpjJgyMOq-Ni7i8pyy-h1Ay2Q/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/eFVpcmt3V1JkRWNL/M0FNQ0ZiTUJnSGFI/YSZwaWQ9QXBp",
+      "followers": 25,
+      "following": 15
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "Kyle Miller",
       "username": "kylemiller",
-      "profileImage": "https://imgs.search.brave.com/XAzuJSPwAqAqyIk3TT-tx5Em2G6QMaNSRSh7SfZBug8/rs:fit:439:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/aW43S2ZXbEJQdXpQ/dXZFV1hnTzRRSGFI/XyZwaWQ9QXBp"
+      "profileImage": "https://imgs.search.brave.com/XAzuJSPwAqAqyIk3TT-tx5Em2G6QMaNSRSh7SfZBug8/rs:fit:439:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/aW43S2ZXbEJQdXpQ/dXZFV1hnTzRRSGFI/XyZwaWQ9QXBp",
+      "followers": 35,
+      "following": 20
+    }
+  ],
+  "tweets": [
+  {
+    "id": 1,
+    "userId": 1,
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisi eu consectetur consectetur, nisi nisi consectetur nisi, euismod nisi nisi euismod nisi.",
+    "image": "https://imgs.search.brave.com/zO9vkSAXsSlTEGCBRWuD7PxoY_YYVjef9hK4LgTQXPI/rs:fit:585:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/RERuWmc5LXE1Qmt5/VGNmT0FZc2J3SGFH/QSZwaWQ9QXBp",
+    "likes": 10,
+    "retweets": 5,
+    "replies": 3
+},
+
+{
+  "id": 2,
+  "userId": 2,
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisi eu consectetur consectetur, nisi nisi consectetur nisi, euismod nisi nisi euismod nisi.",
+  "image": "https://imgs.search.brave.com/zO9vkSAXsSlTEGCBRWuD7PxoY_YYVjef9hK4LgTQXPI/rs:fit:585:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/RERuWmc5LXE1Qmt5/VGNmT0FZc2J3SGFH/QSZwaWQ9QXBp",
+  "likes": 20,
+  "retweets": 9,
+  "replies": 4
+},
+{
+  "id": 3,
+  "userId": 3,
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisi eu consectetur consectetur, nisi nisi consectetur nisi, euismod nisi nisi euismod nisi.",
+  "image": "https://imgs.search.brave.com/zO9vkSAXsSlTEGCBRWuD7PxoY_YYVjef9hK4LgTQXPI/rs:fit:585:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/RERuWmc5LXE1Qmt5/VGNmT0FZc2J3SGFH/QSZwaWQ9QXBp",
+  "likes": 5,
+  "retweets": 1,
+  "replies": 0
+},
+{
+  "id": 4,
+  "userId": 4,
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisi eu consectetur consectetur, nisi nisi consectetur nisi, euismod nisi nisi euismod nisi.",
+  "image": "https://imgs.search.brave.com/zO9vkSAXsSlTEGCBRWuD7PxoY_YYVjef9hK4LgTQXPI/rs:fit:585:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/RERuWmc5LXE1Qmt5/VGNmT0FZc2J3SGFH/QSZwaWQ9QXBp",
+  "likes": 24,
+  "retweets": 9,
+  "replies": 11
+},
+{
+  "id": 5,
+  "userId": 5,
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisi eu consectetur consectetur, nisi nisi consectetur nisi, euismod nisi nisi euismod nisi.",
+  "image": "https://imgs.search.brave.com/zO9vkSAXsSlTEGCBRWuD7PxoY_YYVjef9hK4LgTQXPI/rs:fit:585:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/RERuWmc5LXE1Qmt5/VGNmT0FZc2J3SGFH/QSZwaWQ9QXBp",
+  "likes": 30,
+  "retweets": 14,
+  "replies": 6
+}
+  ],
+
+  "trends": [
+    {
+      "id": 1,
+      "name": "JavaScript",
+      "tweets": 1.575
+},
+    {
+      "id": 2,
+      "name": "React",
+      "tweets": 8942
+    },
+    {
+      "id": 3,
+      "name": "TypeScript",
+      "tweets": 4895
+    },
+    {
+      "id": 4,
+      "name": "Programming",
+      "tweets": 12795
+    },
+    {
+      "id": 5,
+      "name": "WebDevelopment",
+      "tweets":20564
     }
   ]
 }
+
+  
+
+
+
